@@ -1,0 +1,3 @@
+-- This Laravel application uses migrations as its database schema source.
+-- Create the database and run `php artisan migrate --seed` from the project root.
+-- Do not import the retired standalone PHP schema into the Laravel database.
